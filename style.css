@@ -1,0 +1,12 @@
+body{
+    background-color: pink;
+    color: blueviolet;
+    align-items: center;
+
+}
+div{
+    padding:8%;
+    background-color: aqua;
+    grid-auto-columns:right;
+    -ms-grid-column-align: ;
+}
